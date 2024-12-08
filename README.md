@@ -12,16 +12,12 @@ The repository is organized as follows:
 /A.A.H.H.M Volunteering Designs
 │
 ├── designs/
-│   ├── poster1.ai         # Adobe Illustrator source file for poster 1
-│   ├── poster2.ai         # Adobe Illustrator source file for poster 2
-│   ├── badge1.ai          # Adobe Illustrator source file for badge 1
-│   ├── badge2.ai          # Adobe Illustrator source file for badge 2
+│   ├── design1.ai         # Adobe Illustrator source file
+│   ├── design2.ai         # Adobe Illustrator source file
 │
 ├── exports/
-│   ├── poster1.png        # Exported preview of poster 1
-│   ├── poster2.png        # Exported preview of poster 2
-│   ├── badge1.png         # Exported preview of badge 1
-│   ├── badge2.png         # Exported preview of badge 2
+│   ├── design1.jpg        # Exported preview of design 1
+│   ├── design1.jpg        # Exported preview of design 2
 │
 └── README.md              # Project documentation
 ```
@@ -31,7 +27,7 @@ The repository is organized as follows:
 ## ✨ Features
 
 - **Source Files:** Includes `.ai` files for all designs, which can be opened and edited in Adobe Illustrator.
-- **Exported Previews:** Provides `.png` previews of the designs for easy viewing.
+- **Exported Previews:** Provides `.jpg` previews of the designs for easy viewing.
 - **Purpose-driven Designs:** Each project was created with the goal of supporting the activities and events at the A.A.H.H.M school.
 
 ---
@@ -40,7 +36,7 @@ The repository is organized as follows:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/aahhm-volunteering-designs.git
+   git clone https://github.com/AmenZemzem68/aahhm-volunteering-designs.git
    ```
 
 2. Explore the `designs/` folder to access Adobe Illustrator files.
@@ -62,9 +58,9 @@ All designs in this repository are **copyrighted** and are for personal or portf
 
 ## 🌟 Connect with Me
 
-- **Portfolio:** [Your Portfolio Link](https://yourportfolio.com)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **Portfolio:** [https://amen-zemzem-portfolio.vercel.app/](https://amen-zemzem-portfolio.vercel.app/)
+- **Email:** [zemzemamen68@gmail.com](mailto:zemzemamen68@gmail.com)
+- **LinkedIn:** [amenzemzem](https://linkedin.com/in/amenzemzem)
 
 ---
 
